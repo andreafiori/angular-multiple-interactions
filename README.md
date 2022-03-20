@@ -1,4 +1,6 @@
-# MultipleElements
+# Angular multipl eElements
+
+An application wth services, hostlisteners and some interactions. An experiment to see how services and components can share data or not.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
